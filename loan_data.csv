@@ -1,0 +1,9 @@
+Loan_ID,Gender,Married,ApplicantIncome,LoanAmount,Credit_History,Loan_Status
+L001,Male,Yes,5000,150,1,Approved
+L002,Female,No,3000,100,1,Approved
+L003,Male,Yes,2500,120,0,Rejected
+L004,Female,No,6000,200,1,Approved
+L005,Male,Yes,2000,90,0,Rejected
+L006,Female,Yes,7000,250,1,Approved
+L007,Male,No,3500,130,0,Rejected
+L008,Female,Yes,8000,300,1,Approved
